@@ -49,7 +49,8 @@ print(l.is_bst)
 
 ## OUTPUT
 ```
-![image](https://github.com/user-attachments/assets/77c4e0b8-9a28-4946-90ea-60baf24ac09a)
+![image](https://github.com/user-attachments/assets/156c40b5-da8a-4aa4-a273-e3d81a5b58f3)
+
 
 ```
 
